@@ -1,0 +1,2 @@
+# buddies-
+just another repository
